@@ -145,5 +145,14 @@
       "You are missing the bug-fix branch"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1756120586.668486,
+    "completed_at": 1756120587.58826,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
